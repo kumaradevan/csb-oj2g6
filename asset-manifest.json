@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kumaradevan.github.io/csb-oj2g6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kumaradevan.github.io/csb-oj2g6/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://kumaradevan.github.io/csb-oj2g6/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://kumaradevan.github.io/csb-oj2g6/static/js/runtime-main.064874cc.js",
+    "runtime-main.js.map": "https://kumaradevan.github.io/csb-oj2g6/static/js/runtime-main.064874cc.js.map",
+    "static/js/2.2350909c.chunk.js": "https://kumaradevan.github.io/csb-oj2g6/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://kumaradevan.github.io/csb-oj2g6/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://kumaradevan.github.io/csb-oj2g6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kumaradevan.github.io/csb-oj2g6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://kumaradevan.github.io/csb-oj2g6/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064874cc.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
